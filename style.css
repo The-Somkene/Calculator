@@ -37,7 +37,6 @@ body {
   grid-template-columns: repeat(4, 1fr);
   gap: 7px;
   margin-bottom: 10px;
-  /* background-color: rgba(68, 67, 67, 0.608); */
 }
 
 button {
@@ -55,6 +54,20 @@ button {
 #btna,
 #btnp {
   background-color: rgb(244, 167, 59);
+}
+
+#btn7,
+#btn8,
+#btn9,
+#btn4,
+#btn5,
+#btn6,
+#btn1,
+#btn2,
+#btn3,
+#btn0,
+#btndd {
+  background-color: rgba(68, 67, 67, 0.608);
 }
 
 #lastbtn {
